@@ -1,0 +1,1 @@
+print("Employee Leave Management System")
